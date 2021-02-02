@@ -1,1 +1,7 @@
+getgenv().ZY_settings = {
+	FireAlways = true,
+	GetWepOnSpawn = false,
+	OwlHub = false
+}
+
 loadstring(game:HttpGet('https://raw.githubusercontent.com/CadenWhaley/Zephyr/main/synapse'))()
