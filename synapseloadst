@@ -1,5 +1,4 @@
 getgenv().ZY_settings = {
-	FireAlways = true,
 	GetWepOnSpawn = false,
 	OwlHub = false
 }
